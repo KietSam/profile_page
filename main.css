@@ -1,0 +1,47 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  min-width: 700px;
+  background-image: url("space.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  filter: opacity(0.5);
+}
+
+#bg {
+  background-color: rgba(0, 0, 0, 0.125);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+#name {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+section {
+  width: 700px;
+  display: block;
+}
+
+hr {
+  height: 2px;
+  background: black;
+}
+
+.links {
+  text-align: center;
+  width: 350px;
+  height: auto;
+  float: right;
+}
+
+ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
